@@ -56,6 +56,7 @@ commerce/
 │   ├── auction_images
 │   └── placeholder.webp
 ├── .gitignore
+├── LICENSE
 ├── manage.py
 ├── README.md
 └── requirements.txt
