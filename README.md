@@ -7,7 +7,7 @@ This project is a simple clone of eBay built with Django, HTML, and CSS. It is p
 The Django project contains the following key elements:
 
 ```
-commerce/
+cs50-commerce/
 ├── auctions/                # Django app for listings, bids, and categories
 │   ├── migrations/
 │   │   ├── __init__.py
