@@ -147,13 +147,6 @@ python manage.py collectstatic
 Video walkthrough of the project and specifications:
 👉 https://youtu.be/yONq8muabkU
 
-### 🔐 Test Login Credentials
-
-| Username | Password |
-|----------|----------|
-|  Admin   | password |
-|  John    | password |
-
 ## 📜 Certification
 This project was submitted as part of the CS50’s Web Programming with Python and JavaScript course offered by Harvard University.
 Upon successful completion, I was awarded a certificate, which is available here:
