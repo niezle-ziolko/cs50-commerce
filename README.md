@@ -53,7 +53,6 @@ commerce/
 │   ├── urls.py
 │   └── wsgi.py
 ├── media/
-│   ├── auction_images
 │   └── placeholder.webp
 ├── .gitignore
 ├── LICENSE
